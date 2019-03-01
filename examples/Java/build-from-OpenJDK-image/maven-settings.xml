@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+    <!-- Put your profiles and other settings here. Most of this stuff can be generated from Artifactory/Nexus/etc. if applicable -->
+    <!-- See https://maven.apache.org/guides/mini/guide-proxies.html for configuring a proxy -->
+    <!-- This file should end up in ~/.m2/settings -->
+
+</settings>
